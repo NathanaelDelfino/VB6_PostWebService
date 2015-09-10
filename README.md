@@ -1,9 +1,9 @@
 VB6-apps
 =======================
 
-- [VB - BLOB(MYSQL)](https://github.com/NathanaelDelfino/VB6/tree/master/VB6_MySQL_BLOB)
+- [VB - POST (WebService)](https://github.com/NathanaelDelfino/VB6_PostWebService)
 
-Requirements
+Requerimentos
 =======================
 
 - Visual Basic 6
